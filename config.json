@@ -1,0 +1,19 @@
+{
+  "root": {
+    "src": "./dev",
+    "dest": "./public"
+  },
+
+  "tasks": {
+    "server": {
+    },
+    "ejs": {
+    },
+    "scss": {
+    },
+    "babel": {
+    },
+    "imagemin": {
+    }
+  }
+}
